@@ -69,12 +69,13 @@ Use the app to increment and decrement the counter value, and observe the change
 - HTML
 - CSS
 
-# Demo
 
 
-# Screenshots
 
-Include screenshots of the application in action.
+# Screenshots of Output
+
+<img width="960" alt="image" src="https://github.com/vanshrajput01/Form-with-State-React-Project/assets/89916310/7c7afab4-9c2f-48aa-8103-295d015a0d69">
+
 
 # Author
 # Vansh Rajput
